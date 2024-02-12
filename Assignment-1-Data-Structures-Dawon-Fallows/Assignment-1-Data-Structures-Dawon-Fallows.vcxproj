@@ -130,6 +130,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Main.c" />
+    <ClCompile Include="Queue.c" />
+    <ClCompile Include="User.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Queue.h" />
+    <ClInclude Include="User.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
