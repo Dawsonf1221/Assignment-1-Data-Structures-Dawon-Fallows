@@ -6,7 +6,7 @@
 #include <time.h>
 #include <string.h>
 
-#define MAXNAME 10
+#define MAXNAME 11
 #define MAXLEVEL 60
 #define MINLEVEL 1
 #define factionRed 101

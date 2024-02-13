@@ -11,9 +11,9 @@ typedef struct queue {
 }QUEUE;
 
 void CreateEmptyQueue(QUEUE* head, QUEUE* tail);
-int IsQueueEmpty(QUEUE* head, QUEUE* tail);
-void EnqueueNode(QUEUE* head, QUEUE* tail, QUEUE* ptr);
-QUEUE* DequeueNode(QUEUE* head, QUEUE* tail);
+int IsQueueEmpty(QUEUE* head);
+void DequeueNode(QUEUE** head);
 int EnqueueRandomUsers(QUEUE* ptr, int NumberOfUsers);
+
 
 
