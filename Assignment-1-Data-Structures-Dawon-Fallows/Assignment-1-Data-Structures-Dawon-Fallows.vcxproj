@@ -109,7 +109,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <OutputFile>https://github.com/Dawsonf1221/Assign1-Data-Structures.git</OutputFile>
+      <OutputFile>https://github.com/Dawsonf1221/Assignment-1-Data-Structures-Dawon-Fallows.git</OutputFile>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
